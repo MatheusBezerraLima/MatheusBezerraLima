@@ -9,12 +9,15 @@ Desenvolvedor Backend especializado em Node.js, com experiência na construção
 
 ## 🛠️ Tecnologias & Ferramentas
 
+### 🖥️ Backend & Banco de Dados:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/> **Node.js**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/> **TypeScript**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/> **JavaScript**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React Native"/> **React Native**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/> **MySQL**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" alt="Docker"/> **Docker**
+
+### 🖥️ Frontend & Versionamento:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React Native"/> **React Native**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"/> **Git**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/> **GitHub**
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5"/> **HTML5**
@@ -34,9 +37,10 @@ Desenvolvedor Backend especializado em Node.js, com experiência na construção
 
 ## 📈 Estatísticas do GitHub
 
-![MatheusBezerraLima GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusBezerraLima&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBezerraLima&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusBezerraLima&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBezerraLima&layout=compact&theme=radical" width="48%" />
+</div>
 
 ---
 
