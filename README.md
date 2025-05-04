@@ -10,7 +10,7 @@ Desenvolvedor **Backend** especializado em **Node.js**, criando APIs escaláveis
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🚀 **Backend & Banco de Dados**
-
+<div style="display: flex; flex-direction: row;">
 <div style="display: flex; flex-wrap: wrap; padding: 10px;">
   <div style="display: flex; align-items: center; background-color: #4e73df; border-radius: 10px; padding: 10px; margin: 5px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
@@ -65,6 +65,7 @@ Desenvolvedor **Backend** especializado em **Node.js**, criando APIs escaláveis
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
     <span style="color: white; font-weight: bold; margin-left: 8px;">CSS3</span>
   </div>
+</div>
 </div>
 
 ---
