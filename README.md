@@ -11,7 +11,7 @@ Desenvolvedor **Backend** com foco em **Node.js** para a criação de APIs escal
 
 ### 🚀 **Backend & Banco de Dados**
 
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)   
 ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript  
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  
 ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL  
