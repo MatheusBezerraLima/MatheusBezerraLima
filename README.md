@@ -36,8 +36,8 @@ Desenvolvedor **Backend** com foco em **Node.js** para a criação de APIs escal
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusBezerraLima&show_icons=true&theme=shadow-red)
-![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBezerraLima&theme=shadow-red)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusBezerraLima&show_icons=true&theme=shadow_red)
+![Línguas mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBezerraLima&layout=compact&theme=shadow_red)
 
 ---
 
