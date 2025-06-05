@@ -2,9 +2,6 @@
 
 Desenvolvedor **Backend** com foco em **Node.js** para a criação de APIs escaláveis e eficientes. Tenho uma sólida experiência em **banco de dados** e práticas modernas de **DevOps**, além de conhecimentos em **Frontend** para uma integração fluida.
 
-🎓 **Técnico em Informática para Internet** pela **ETEC Bartolomeu Bueno da Silva**  
-🚀 **Meu objetivo é criar soluções escaláveis e eficientes para desafios de tecnologia.**
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
@@ -26,11 +23,11 @@ Desenvolvedor **Backend** com foco em **Node.js** para a criação de APIs escal
 
 ## 🔍 Sobre mim
 
-- 🔧 **Crio APIs escaláveis** e robustas com boas práticas de desenvolvimento, foco em segurança e performance.
-- 🛠️ **Experiência com Docker** para facilitar a entrega de aplicações e garantir ambientes isolados.
-- 🛢️ **Trabalho com bancos de dados relacionais** (MySQL) e desenvolvo soluções eficientes de armazenamento e recuperação de dados.
-- 🌐 **Conhecimento em Frontend** para integrar soluções **fullstack** com HTML, CSS e JavaScript.
-- ✨ **Comprometido com código limpo** e de fácil manutenção, sempre buscando evolução.
+- **Crio APIs escaláveis** e robustas com boas práticas de desenvolvimento, foco em segurança e performance.
+- **Experiência com Docker** para facilitar a entrega de aplicações e garantir ambientes isolados.
+- **Trabalho com bancos de dados relacionais** (MySQL) e desenvolvo soluções eficientes de armazenamento e recuperação de dados.
+- **Conhecimento em Frontend** para integrar soluções **fullstack** com HTML, CSS e JavaScript.
+- **Comprometido com código limpo** e de fácil manutenção, sempre buscando evolução.
 
 ---
 
