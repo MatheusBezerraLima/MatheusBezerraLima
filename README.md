@@ -2,7 +2,6 @@
 
 Desenvolvedor **Backend** com foco em **Node.js** para a criação de APIs escaláveis e eficientes. Tenho uma sólida experiência em **banco de dados** e práticas modernas de **DevOps**, além de conhecimentos em **Frontend** para uma integração fluida.
 
----
 
 ## 🛠️ Tecnologias & Ferramentas
 <div style="display: flex; flex-direction: row;>
