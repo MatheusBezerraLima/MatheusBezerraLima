@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Matheus Bezerra Lima
+# Matheus Bezerra Lima 👨🏽‍💻
 
 Desenvolvedor **Backend** com foco em **Node.js** para a criação de APIs escaláveis e eficientes. Tenho uma sólida experiência em **banco de dados** e práticas modernas de **DevOps**, além de conhecimentos em **Frontend** para uma integração fluida.
 
@@ -41,3 +41,5 @@ Desenvolvedor **Backend** com foco em **Node.js** para a criação de APIs escal
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-Matheus%20Bezerra%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bezerra-lima-156146265/)
+
+
