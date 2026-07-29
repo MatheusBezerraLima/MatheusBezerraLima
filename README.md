@@ -10,7 +10,7 @@
 
 Sou Analista de Suporte Júnior na Proative Technology, onde trabalho no cruzamento entre infraestrutura e desenvolvimento: monitoro alertas de plataformas em produção, investigo falhas de transações e construo integrações em TypeScript/Node.js. Estudo Análise e Desenvolvimento de Sistemas na **FIAP (bolsa integral ProUni)**.
 
-- **Foco atual**: back-end escalável em **Node.js/TypeScript** e **Java**, com automação e observabilidade (Datadog, Dynatrace)
+- **Foco atual**: back-end escalável em **Node.js/TypeScript** e **Java**, com observabilidade (Datadog, Dynatrace)
 - Experiência com bancos relacionais e NoSQL: **MySQL, Oracle, DynamoDB**
 - Em transição de foco para **Java + Spring Boot**, minha próxima especialização.
 - Estudando para a certificação **AWS Certified Cloud Practitioner (CLF-C02)**
