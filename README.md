@@ -60,12 +60,3 @@ Trilha de estudo em andamento rumo a back-end Java:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusBezerraLima&theme=shadow_red&hide_border=true" />
 </p>
 
----
-
-### 🌐 Vamos nos conectar
-
-<p>
-  <a href="https://www.linkedin.com/in/matheusbezerralima/">
-    <img src="https://img.shields.io/badge/-Matheus%20Bezerra%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
